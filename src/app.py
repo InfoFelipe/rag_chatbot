@@ -5,7 +5,7 @@ class App_System:
         # Inicializar o sitema
         rag_system = RagSystem()
         
-        # Carrega os documentos
+        # Carregaando os documentos
         rag_system.load_and_process_documents("/home/felipe/Área de trabalho/rag_teste/src/data/teste.txt")
         
         print("Olá! Sou o seu Assistente Virtual. Faça sua pergunta.")
