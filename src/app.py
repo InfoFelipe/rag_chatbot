@@ -2,7 +2,7 @@ from rag_pipeline import RagSystem
 
 class App_System:
 
-        # Inicializa o sistema
+        # Inicializar o sitema
         rag_system = RagSystem()
         
         # Carrega os documentos
