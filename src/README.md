@@ -15,7 +15,7 @@ Este é um projeto para criação de chatbots com RAG usando LangChain e o model
     * src/app.py: Contém a lógica do chatbot.
     * src/main.py: Ponto de entrada do projeto.
     * src/rag_pipeline.py: Lida com a pipeline RAG (Retrieval-Augmented Generation).
-    * src/data/teste.txt/: Arquivo usado para análise ou busca.
+    * src/data/teste.txt/: Arquivo usado para análise ou buscaando.
       
 3. **Explicação sobre o código**
    
